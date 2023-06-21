@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <!-- <link rel="icon" type="image/svg+xml" href="/vite.svg" /> -->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>The rules of your life</title>
+  <script>
+    const changeDarkMode = (matchedDark) =>
+      localStorage.theme === 'dark' || (!('theme' in localStorage) && matchedDark)
+        ? document.documentElement.classList.add('dark')
+        : document.documentElement.classList.remove('dark')
+    const matchColorSchemeDark = window.matchMedia("(prefers-color-scheme: dark)")
+    changeDarkMode(matchColorSchemeDark.matches)
+    matchColorSchemeDark.addEventListener("change", event => changeDarkMode(event.matches))
+  </script>
+  <script type="module" crossorigin src="/assets/index-2187824a.js"></script>
+  <link rel="stylesheet" href="/assets/index-5282906c.css">
+</head>
+
+<body>
+  <main></main>
+  
+</body>
+
+</html>
