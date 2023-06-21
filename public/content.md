@@ -74,16 +74,13 @@ You only must rule when the situation at hand requests it. Eventually everything
 
 Newcomers will start with an already comprehensive set of rules, depending on what worked best for others before. 
 
-
-
 ## To be continue...
 
 All the necessary details are coming...
 
+# Settings
 
-# {key:1774968} Settings
-
-## {key:1774968} Dark Mode
+## Dark Mode
 
 <DarkMode/>
 
