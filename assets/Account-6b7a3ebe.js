@@ -1,0 +1,1 @@
+import{S as s,i as r,s as i,e as c,a as u,n,d as l}from"./index-3f74859d.js";function p(a){let e;return{c(){e=c("p"),e.innerHTML='You are not logged in and you have the default experience. <a href="/">Login here</a>.'},m(t,o){u(t,e,o)},p:n,i:n,o:n,d(t){t&&l(e)}}}class f extends s{constructor(e){super(),r(this,e,null,p,i,{})}}export{f as default};
