@@ -5,7 +5,7 @@
   let markdown: string;
   let errMsg: string;
 
-  fetch("./content.md")
+  fetch("./content.md?t=" + Date.now())
     .then((res) => {
       if (res.status !== 200)
         throw new Error("" + res.status + " " + res.statusText);
