@@ -1,4 +1,16 @@
 <script lang="ts">
+    const changeDarkMode = (matchedDark) =>
+        localStorage.theme === "dark" ||
+        (!("theme" in localStorage) && matchedDark)
+            ? document.documentElement.classList.add("dark")
+            : document.documentElement.classList.remove("dark");
+    const matchColorSchemeDark = window.matchMedia(
+        "(prefers-color-scheme: dark)"
+    );
+    changeDarkMode(matchColorSchemeDark.matches);
+    matchColorSchemeDark.addEventListener("change", (event) =>
+        changeDarkMode(event.matches)
+    );
     const items = ["auto", "dark", "light"];
     let group =
         items.find((el) => el === localStorage.getItem("theme")) || items[0];
