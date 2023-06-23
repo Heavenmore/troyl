@@ -1,76 +1,44 @@
 # The rules of your life
 
-## Introduction 
+## Introduction
 
-At this moment, this website introduces its concept to the world. It aims to explain it clearly and convincingly for other people to join in to be put into practice. 
+Welcome to the platform that aims to make artificial intelligence your real-life guardian angel that will protect you and guide you to have the best experience of life you can imagine.
 
-It is about how Artificial intelligence (AI) can be the best ally you can have in life, where it guides and protects you for the best life you can imagine. 
+Here we assume that as a human being you are happy when you are living an intentional life.
 
-For this to happen we need a business model that rewards when AI works in the best interest of the people it is interacting with.  
+Because every choice you make says something about you, this will show a little more of who you are to yourself and to the world, and to discover yourself and to be seen is what makes you happy in life.
 
-Because no one knows better than you what is best for you, you should be the one that decides what are the rules after which AI operates.  
+To be happy you must make choices regarding everything you encounter in your life either by simply admiring how beautiful the moment is or by changing it to make it more beautiful.
 
-As everyone else will do the same, the biggest risk where AI is used for evil is avoided because the rules will include how people want to interact with each other in a supportive and enjoyable way from the perspective where AI exists.  
+The motivation for the choices should always be grace, what beautiful means to you, that will lead you on expressing yourself and happiness; the opposite is disgraceful choices, what others consider to be beautiful, that will make you feel trapped and unhappy.
 
-The following are what the rules may be like. They will have a title to be easily identifiable and its content in one or more paragraphs. 
+This is way the saying “the path to hell is paved with good intentions” exists, because even if someone has good intentions, if you are in a troubled situation you are probably uncertain of yourself, and then they will choose for you, and even if is a good choice because you did not make it, is very little of you in it, you will not fully understand its implications, is not you, and they end up making you more harm than good. To avoid this, they will only have to simply ask you “what can I do for you?” Then, they will give their feedback, if it is possible, with what are all the implications may be.
 
-Once the rules written on this website convincingly illustrate the concept, they will be compiled into a book to furthermore highlight the concept to the world. 
+Artificial intelligence is a superpower that will give the freedom to make choices with the most fulfilling outcome ever for you, for people around and for the planet.
 
-## Interaction 
+Because your real-life guardian angel (device with artificial intelligence) will have all the knowledge of humanity in its memory, like in a strain of DNA there is all the information about you. Everyone else will have a real-life guardian angel with the same superpowers,
 
-You make your ruling with the help of AI in a conversational style (conversational editing). You write or say “I want” using the first person and the AI will responds back with “You want” using the second person, showing you that understands what you want. 
+A guardian angel will be given at birth to protect and guide from the first day on earth.
 
-This is where this website plans to implement first, conversation editing.  
+The business model is the most important for this to work. The guardian angels will be paid by their owners with the income they make in the future. Investors will decide what programs guardian angels run, and they will have all the interest to choose the one in the best interest of its owner, to make them successful in life, to make their investment worth it.
 
-When you make a rule there will, there are no options to keep it private it or publish it, the rule itself will involve other people or not. If the rule involves other people, they will respond back with their ruling, and this will go back and forth until all parties are happy with the outcome. 
+When a person in their adulthood has an income o part will go to the investors responsible for the programs that guardian angels run that led them to success.
 
-## Management  
+With another part of their income, will become investors on their own, by default automatically, where the money will be invested in the programs for guardian angels to run that were proven to be successful. It will be their retirement money. They also can invest in something else then the default (default will be considered something like SP100) if they think will be worth it.
 
-The purpose of managing is to handle with a rule everything that life throws at you, for everyone to have a pleasant experience when interacting with one another when deciding where the world should go. 
+But how will we know what programs work and how they work. Through rules:
 
-For example, someone is ruling that you should invest in oil. Your response rule may be that you would not do that, and similar further request should be ignored.  
+The guardian angel records what is being used rather than on what is being used than rate the experience the outcome. The guardian angel always takes actions that are in the best interests of its owner. Then it is ruled how the action in the best interests of tis owner looks like. No information is shared with technologies that do not respect this rule, and because everybody will use this standard will be possible to outlaw them. All the sophisticated data that can be collected from you, will create a version self of you and you rule how to be used, how you are comfortable of being used in what terms, default being what you put online by yourself (images and videos). The data you are seeing should be properly categorized as, computer generated, a virtual self of John, if John is live speaking with you. Any attempt of reading the data other way then what the rules says is allowed should automatically delete the data and alert the network. Every product you buy should be fully transparent on how it is made and how it was delivered to you. Never log me in, backup data that identify me on the angel around you, but no one can access them for any other reason than in case that you brake and when you get fixed to get that data back.
 
-They may response with the consequence of your inaction. Then you rule that for the current information you have, you will go along and invest in green energy. 
+Above are what the rules for artificial intelligence may look like and they will be the rules of your life. Everything you will encounter in your life will be in a certain way because of some rules in you rule book held by your guardian angel. And if you don’t like something you just look at what rule caused it and change it. If other people are affected by your ruling, they will have a say how the rule is going to look like in the final form. This will prevent abuses from anyone.
 
-They may personally want to contact you. You rule that someone with their profile cannot contact you.  
+This is what website plan to do, create a draft of what the rules may be, then when confidence exists a book will be written with them. The book has the purpose to make the project know and to make what the idea is clear. Then will go implement what is in the book. First making the website behaves as a guardian angel, second where the real adventure will begin, making a real-life guardian angel.
 
-Then they come to your city and invite everyone. You rule that someone with their profile cannot invite you to any event and you should be informed where these types of events are held to avoid them. 
+Following will be all the messiness above (written in a brainstorming style) sortied out to qualify it for being a content of a book.
 
-Can they rule that they can come unannounced to your current location? Yes. But you only interact with people that are transparent with their intentions and respect your boundaries.  
+To be continue…
 
-## Reciprocity 
 
-What you do to others you do to yourself. 
-
-When you say “I want from you this in exchange for this” it also means that everybody else is you having the same request and you are them.  
-
-This ensures that a fair deal is made.  
-
-If you are happy with the outcome the condition of the deal becomes important because other people finding themselves in the same situation will make the same deal as you and you will be credited for it.  
-
-## Business model 
-
-The authors of the rules are responsible for what the outcome of those rules may be. If the outcome is positive there is a reward. The reward is split between authors, each getting a percentage depending on how much they contributed. 
-
-Once the website implements conversational editing *, it will also implement the percentage of responsibility where everybody is credited for the existing content each with their percentage of responsibility. 
-
-This is how the authors will make money on the website. 
-
-E.g., You rule:  
-
-“I want to buy products only from manufacturers that handle the resources of the planet responsible.”  
-
-The response will at first be with suggestion to “green” website with referral links.  
-
-Then there will be a debate of how accurate those “green” websites are.  
-
-The discussion will continue and will eventually lead to rules that identify with accuracy manufacturers that have the same values as you.  
-
-Then when a purchase is made the profit is split between the manufacturers and with the authors of the rules that lead you to the purchase. Each one should get their fair share from the profit each getting a percentage depending on how much they contributed for the product to be in your hands. 
-
-## To be continue 
-
-All the necessary details are coming...
 
 # Settings
 
