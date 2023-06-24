@@ -31,7 +31,7 @@
 </script>
 
 {#each pieces as piece, index (piece.key || index)}
-    {@const key = piece.key || "" + index}
+    {@const key = h + (piece.key || "i" + index)}
     {@const collapsed = +(localStorage.getItem(dbKeyCollapsed(key)) || "0")}
 
     {#if piece.title}
