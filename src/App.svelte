@@ -6,7 +6,7 @@
   let errMsg: string;
 
   fetch(
-    "https://gist.githubusercontent.com/troylsite/2a2c912a9d9b4221dae69b7129dadad1/raw/4526a25b3fabf4e2006e1e4c3704dbb6b28f7077/troyl.md?t=" +
+    "https://gist.githubusercontent.com/troylsite/2a2c912a9d9b4221dae69b7129dadad1/raw?t=" +
       Date.now()
   )
     .then((res) => {
